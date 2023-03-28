@@ -1,0 +1,23 @@
+﻿<Window x:Class="wpfCadastrarContato.Janelas.janelaCadastrarContato"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wpfCadastrarContato.Janelas"
+        mc:Ignorable="d"
+        Title="janelaCadastrarContato" Height="450" Width="800">
+    <Grid>
+        <Label Content="Nome:" HorizontalAlignment="Left" Margin="66,67,0,0" VerticalAlignment="Top" Height="27" Width="48" RenderTransformOrigin="0.384,0.579"/>
+        <Label Content="Sexo:" HorizontalAlignment="Left" Margin="66,138,0,0" VerticalAlignment="Top" Height="27" Width="48" RenderTransformOrigin="0.384,0.579"/>
+        <Label Content="Nascimento:" HorizontalAlignment="Left" Margin="66,199,0,0" VerticalAlignment="Top" Height="27" Width="78" RenderTransformOrigin="0.384,0.579"/>
+        <Label Content="Email:" HorizontalAlignment="Left" Margin="66,251,0,0" VerticalAlignment="Top" Height="27" Width="48" RenderTransformOrigin="0.384,0.579"/>
+        <Label Content="Telefone:" HorizontalAlignment="Left" Margin="66,327,0,0" VerticalAlignment="Top" Height="27" Width="58" RenderTransformOrigin="0.384,0.579"/>
+        <DatePicker x:Name="dtpNascimento" HorizontalAlignment="Left" Margin="55,231,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="edNome" HorizontalAlignment="Left" Margin="64,99,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="edSexo" HorizontalAlignment="Left" Margin="64,176,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="edEmail" HorizontalAlignment="Left" Margin="64,304,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="edTelefone" HorizontalAlignment="Left" Margin="64,373,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btSalvar" Content="Salvar" HorizontalAlignment="Left" Margin="546,278,0,0" VerticalAlignment="Top" Height="35" Width="64" Click="btSalvar_Click"/>
+
+    </Grid>
+</Window>

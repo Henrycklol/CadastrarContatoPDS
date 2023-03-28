@@ -1,0 +1,72 @@
+D:\Documentos\IFRO\IFRO - 2022\Programação Orientada à Objetos\2º Semestre\FormularioPDS\FormularioPDS\bin\Debug\FormularioPDS.exe.config
+D:\Documentos\IFRO\IFRO - 2022\Programação Orientada à Objetos\2º Semestre\FormularioPDS\FormularioPDS\bin\Debug\FormularioPDS.exe
+D:\Documentos\IFRO\IFRO - 2022\Programação Orientada à Objetos\2º Semestre\FormularioPDS\FormularioPDS\bin\Debug\FormularioPDS.pdb
+D:\Documentos\IFRO\IFRO - 2022\Programação Orientada à Objetos\2º Semestre\FormularioPDS\FormularioPDS\bin\Debug\BouncyCastle.Crypto.dll
+D:\Documentos\IFRO\IFRO - 2022\Programação Orientada à Objetos\2º Semestre\FormularioPDS\FormularioPDS\bin\Debug\Google.Protobuf.dll
+D:\Documentos\IFRO\IFRO - 2022\Programação Orientada à Objetos\2º Semestre\FormularioPDS\FormularioPDS\bin\Debug\K4os.Compression.LZ4.dll
+D:\Documentos\IFRO\IFRO - 2022\Programação Orientada à Objetos\2º Semestre\FormularioPDS\FormularioPDS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Documentos\IFRO\IFRO - 2022\Programação Orientada à Objetos\2º Semestre\FormularioPDS\FormularioPDS\bin\Debug\K4os.Hash.xxHash.dll
+D:\Documentos\IFRO\IFRO - 2022\Programação Orientada à Objetos\2º Semestre\FormularioPDS\FormularioPDS\bin\Debug\MySql.Data.dll
+D:\Documentos\IFRO\IFRO - 2022\Programação Orientada à Objetos\2º Semestre\FormularioPDS\FormularioPDS\bin\Debug\System.Buffers.dll
+D:\Documentos\IFRO\IFRO - 2022\Programação Orientada à Objetos\2º Semestre\FormularioPDS\FormularioPDS\bin\Debug\System.Memory.dll
+D:\Documentos\IFRO\IFRO - 2022\Programação Orientada à Objetos\2º Semestre\FormularioPDS\FormularioPDS\bin\Debug\System.Numerics.Vectors.dll
+D:\Documentos\IFRO\IFRO - 2022\Programação Orientada à Objetos\2º Semestre\FormularioPDS\FormularioPDS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documentos\IFRO\IFRO - 2022\Programação Orientada à Objetos\2º Semestre\FormularioPDS\FormularioPDS\bin\Debug\ZstdNet.dll
+D:\Documentos\IFRO\IFRO - 2022\Programação Orientada à Objetos\2º Semestre\FormularioPDS\FormularioPDS\bin\Debug\BouncyCastle.Crypto.xml
+D:\Documentos\IFRO\IFRO - 2022\Programação Orientada à Objetos\2º Semestre\FormularioPDS\FormularioPDS\bin\Debug\Google.Protobuf.pdb
+D:\Documentos\IFRO\IFRO - 2022\Programação Orientada à Objetos\2º Semestre\FormularioPDS\FormularioPDS\bin\Debug\Google.Protobuf.xml
+D:\Documentos\IFRO\IFRO - 2022\Programação Orientada à Objetos\2º Semestre\FormularioPDS\FormularioPDS\bin\Debug\K4os.Compression.LZ4.xml
+D:\Documentos\IFRO\IFRO - 2022\Programação Orientada à Objetos\2º Semestre\FormularioPDS\FormularioPDS\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Documentos\IFRO\IFRO - 2022\Programação Orientada à Objetos\2º Semestre\FormularioPDS\FormularioPDS\bin\Debug\K4os.Hash.xxHash.xml
+D:\Documentos\IFRO\IFRO - 2022\Programação Orientada à Objetos\2º Semestre\FormularioPDS\FormularioPDS\bin\Debug\MySql.Data.xml
+D:\Documentos\IFRO\IFRO - 2022\Programação Orientada à Objetos\2º Semestre\FormularioPDS\FormularioPDS\bin\Debug\System.Buffers.xml
+D:\Documentos\IFRO\IFRO - 2022\Programação Orientada à Objetos\2º Semestre\FormularioPDS\FormularioPDS\bin\Debug\System.Memory.xml
+D:\Documentos\IFRO\IFRO - 2022\Programação Orientada à Objetos\2º Semestre\FormularioPDS\FormularioPDS\bin\Debug\System.Numerics.Vectors.xml
+D:\Documentos\IFRO\IFRO - 2022\Programação Orientada à Objetos\2º Semestre\FormularioPDS\FormularioPDS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Documentos\IFRO\IFRO - 2022\Programação Orientada à Objetos\2º Semestre\FormularioPDS\FormularioPDS\obj\Debug\FormularioPDS.csproj.AssemblyReference.cache
+D:\Documentos\IFRO\IFRO - 2022\Programação Orientada à Objetos\2º Semestre\FormularioPDS\FormularioPDS\obj\Debug\FormularioPDS.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\IFRO\IFRO - 2022\Programação Orientada à Objetos\2º Semestre\FormularioPDS\FormularioPDS\obj\Debug\FormularioPDS.Form1.resources
+D:\Documentos\IFRO\IFRO - 2022\Programação Orientada à Objetos\2º Semestre\FormularioPDS\FormularioPDS\obj\Debug\FormularioPDS.Formularios.FormCadastrarContato.resources
+D:\Documentos\IFRO\IFRO - 2022\Programação Orientada à Objetos\2º Semestre\FormularioPDS\FormularioPDS\obj\Debug\FormularioPDS.Properties.Resources.resources
+D:\Documentos\IFRO\IFRO - 2022\Programação Orientada à Objetos\2º Semestre\FormularioPDS\FormularioPDS\obj\Debug\FormularioPDS.csproj.GenerateResource.cache
+D:\Documentos\IFRO\IFRO - 2022\Programação Orientada à Objetos\2º Semestre\FormularioPDS\FormularioPDS\obj\Debug\FormularioPDS.csproj.CoreCompileInputs.cache
+D:\Documentos\IFRO\IFRO - 2022\Programação Orientada à Objetos\2º Semestre\FormularioPDS\FormularioPDS\obj\Debug\FormularioPDS.csproj.CopyComplete
+D:\Documentos\IFRO\IFRO - 2022\Programação Orientada à Objetos\2º Semestre\FormularioPDS\FormularioPDS\obj\Debug\FormularioPDS.exe
+D:\Documentos\IFRO\IFRO - 2022\Programação Orientada à Objetos\2º Semestre\FormularioPDS\FormularioPDS\obj\Debug\FormularioPDS.pdb
+D:\Documentos\IFRO\IFRO - 2022\Programação Orientada à Objetos\2º Semestre\FormularioPDS\FormularioPDS\obj\Debug\FormularioPDS.Formularios.FormListarContato.resources
+D:\Documentos\IFRO\IFRO - 2023\PDS\FormularioPDS\FormularioPDS\bin\Debug\FormularioPDS.exe.config
+D:\Documentos\IFRO\IFRO - 2023\PDS\FormularioPDS\FormularioPDS\bin\Debug\FormularioPDS.exe
+D:\Documentos\IFRO\IFRO - 2023\PDS\FormularioPDS\FormularioPDS\bin\Debug\FormularioPDS.pdb
+D:\Documentos\IFRO\IFRO - 2023\PDS\FormularioPDS\FormularioPDS\bin\Debug\BouncyCastle.Crypto.dll
+D:\Documentos\IFRO\IFRO - 2023\PDS\FormularioPDS\FormularioPDS\bin\Debug\Google.Protobuf.dll
+D:\Documentos\IFRO\IFRO - 2023\PDS\FormularioPDS\FormularioPDS\bin\Debug\K4os.Compression.LZ4.dll
+D:\Documentos\IFRO\IFRO - 2023\PDS\FormularioPDS\FormularioPDS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Documentos\IFRO\IFRO - 2023\PDS\FormularioPDS\FormularioPDS\bin\Debug\K4os.Hash.xxHash.dll
+D:\Documentos\IFRO\IFRO - 2023\PDS\FormularioPDS\FormularioPDS\bin\Debug\MySql.Data.dll
+D:\Documentos\IFRO\IFRO - 2023\PDS\FormularioPDS\FormularioPDS\bin\Debug\System.Buffers.dll
+D:\Documentos\IFRO\IFRO - 2023\PDS\FormularioPDS\FormularioPDS\bin\Debug\System.Memory.dll
+D:\Documentos\IFRO\IFRO - 2023\PDS\FormularioPDS\FormularioPDS\bin\Debug\System.Numerics.Vectors.dll
+D:\Documentos\IFRO\IFRO - 2023\PDS\FormularioPDS\FormularioPDS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documentos\IFRO\IFRO - 2023\PDS\FormularioPDS\FormularioPDS\bin\Debug\ZstdNet.dll
+D:\Documentos\IFRO\IFRO - 2023\PDS\FormularioPDS\FormularioPDS\bin\Debug\BouncyCastle.Crypto.xml
+D:\Documentos\IFRO\IFRO - 2023\PDS\FormularioPDS\FormularioPDS\bin\Debug\Google.Protobuf.pdb
+D:\Documentos\IFRO\IFRO - 2023\PDS\FormularioPDS\FormularioPDS\bin\Debug\Google.Protobuf.xml
+D:\Documentos\IFRO\IFRO - 2023\PDS\FormularioPDS\FormularioPDS\bin\Debug\K4os.Compression.LZ4.xml
+D:\Documentos\IFRO\IFRO - 2023\PDS\FormularioPDS\FormularioPDS\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Documentos\IFRO\IFRO - 2023\PDS\FormularioPDS\FormularioPDS\bin\Debug\K4os.Hash.xxHash.xml
+D:\Documentos\IFRO\IFRO - 2023\PDS\FormularioPDS\FormularioPDS\bin\Debug\MySql.Data.xml
+D:\Documentos\IFRO\IFRO - 2023\PDS\FormularioPDS\FormularioPDS\bin\Debug\System.Buffers.xml
+D:\Documentos\IFRO\IFRO - 2023\PDS\FormularioPDS\FormularioPDS\bin\Debug\System.Memory.xml
+D:\Documentos\IFRO\IFRO - 2023\PDS\FormularioPDS\FormularioPDS\bin\Debug\System.Numerics.Vectors.xml
+D:\Documentos\IFRO\IFRO - 2023\PDS\FormularioPDS\FormularioPDS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Documentos\IFRO\IFRO - 2023\PDS\FormularioPDS\FormularioPDS\obj\Debug\FormularioPDS.csproj.AssemblyReference.cache
+D:\Documentos\IFRO\IFRO - 2023\PDS\FormularioPDS\FormularioPDS\obj\Debug\FormularioPDS.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\IFRO\IFRO - 2023\PDS\FormularioPDS\FormularioPDS\obj\Debug\FormularioPDS.Form1.resources
+D:\Documentos\IFRO\IFRO - 2023\PDS\FormularioPDS\FormularioPDS\obj\Debug\FormularioPDS.Formularios.FormCadastrarContato.resources
+D:\Documentos\IFRO\IFRO - 2023\PDS\FormularioPDS\FormularioPDS\obj\Debug\FormularioPDS.Formularios.FormListarContato.resources
+D:\Documentos\IFRO\IFRO - 2023\PDS\FormularioPDS\FormularioPDS\obj\Debug\FormularioPDS.Properties.Resources.resources
+D:\Documentos\IFRO\IFRO - 2023\PDS\FormularioPDS\FormularioPDS\obj\Debug\FormularioPDS.csproj.GenerateResource.cache
+D:\Documentos\IFRO\IFRO - 2023\PDS\FormularioPDS\FormularioPDS\obj\Debug\FormularioPDS.csproj.CoreCompileInputs.cache
+D:\Documentos\IFRO\IFRO - 2023\PDS\FormularioPDS\FormularioPDS\obj\Debug\FormularioPDS.csproj.CopyComplete
+D:\Documentos\IFRO\IFRO - 2023\PDS\FormularioPDS\FormularioPDS\obj\Debug\FormularioPDS.exe
+D:\Documentos\IFRO\IFRO - 2023\PDS\FormularioPDS\FormularioPDS\obj\Debug\FormularioPDS.pdb
